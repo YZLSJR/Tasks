@@ -22,7 +22,7 @@
 
 查看源码，
 
-![3]()
+![3](https://github.com/YZLSJR/Tasks/blob/ee1e3b9dda16702a571ce7b75260fcbfece47597/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/3.png)
 
 发现输入的内容被单引号括起来了，所以尝试输入`'> <script>alert()</script> <'`发现特殊符号被实体转义了，所以我们可以考虑input标签的一些特殊事件如`onkeypress` `onkeydown` `onfocus` 以onfocus为例借助JavaScript伪协议输入`' onfocus=javascript:alert() '` 之后再点击一下输入框就可以了，但如果不借助伪协议的话，双引号会被实体转义
 
