@@ -58,7 +58,7 @@
 
 我们输入的内容会直接带入href，点击友情链接的时候，就会执行我们带入的内容，同时这一关添加了小写转化函数，还过滤掉了src、data、on···、href、script、（双引号），他没有过滤[&#；]所以我们还可以对script进行HTML编码，找一个编码工具（[MaTools]([在线Unicode编码解码 - 码工具 (matools.com)](https://www.matools.com/code-convert-unicode))）把script转义一下子，
 
-![7]()
+![7](https://github.com/YZLSJR/Tasks/blob/629c9dff715b7287f7ebf139e11e68d9cb3233d4/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/7.png)
 
 输入`java&#115;&#99;&#114;&#105;&#112;&#116;:alert()`点一下添加友情链接然后再点击一下友情链接就可以了
 
