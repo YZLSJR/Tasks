@@ -34,7 +34,7 @@
 
 尝试输入`' onfocus=javascript:alert() '`
 
-![4]()
+![4](https://github.com/YZLSJR/Tasks/blob/5e4956dba32f71e70120988e2a5af017f0ed9981/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/4.png)
 
 发现网页在on中间加了一个下划线，输入`"> <script>alert()</script> <"`发现script中间也加了下划线，但他并没有过滤尖括号所以可以尝试其他标签如a标签的href属性构造payload`"> <a href=javascript:alert()>123</a> <"`,之后再点击123即可
 
