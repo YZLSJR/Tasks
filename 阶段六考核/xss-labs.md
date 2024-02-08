@@ -80,7 +80,7 @@
 
 我们也可以对这三个参数依次进行传参，有回显的那个就是get传参对象,输入`t_link="666"&t_history="777"&t_sort="888"`
 
-![10]()
+![10](https://github.com/YZLSJR/Tasks/blob/bf53dfd2a335095ecaf15ada6034d9d05c75aef1/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/10.png)
 
 
 
