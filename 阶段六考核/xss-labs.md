@@ -46,7 +46,7 @@
 
 首先我们可以将之前payload的一些可能被过滤的关键字试一下如`" <sCRipt> OnFocus <a hREf=javascript:alert()> "`发现这些输入的值变成了`" <> focus <a =java:alert()> "`，
 
-![5]()
+![5](https://github.com/YZLSJR/Tasks/blob/48a65a59c3b77dcc654a576e2e27c9fdd975236e/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/5.png)
 
 所以这一关进行了小写转化并且将on，script，href都给删掉了，所以可以考虑双拼写法将on写成oonn，script写成scrscriptipt，可以绕过去，输入`"> <Scrscriptipt>alert()</scrscriptipt> <"`即可
 
