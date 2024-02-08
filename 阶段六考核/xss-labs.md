@@ -54,7 +54,7 @@
 
 先输入关键字尝试一下如`" Src DaTa <sCRipt> OnFocus <a hREf=javascript:alert()> "`查看源码
 
-![6]()
+![6](https://github.com/YZLSJR/Tasks/blob/eccde3c0a2b78ee9e37c78eccdce8882063a6836/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/6.png)
 
 我们输入的内容会直接带入href，点击友情链接的时候，就会执行我们带入的内容，同时这一关添加了小写转化函数，还过滤掉了src、data、on···、href、script、（双引号），他没有过滤[&#；]所以我们还可以对script进行HTML编码，找一个编码工具（[MaTools]([在线Unicode编码解码 - 码工具 (matools.com)](https://www.matools.com/code-convert-unicode))）把script转义一下子，
 
