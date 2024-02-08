@@ -74,7 +74,7 @@
 
 我们再次先输入一些关键字在网址栏`" Src DaTa <sCRipt> OnFocus <a hREf=javascript:alert()> &# "`发现全部被过滤掉了，查看源码发现有三个参数，get传参可能传到任何一个里，只能看一下这一关的PHP文件，
 
-![9]()
+![9](https://github.com/YZLSJR/Tasks/blob/ca6ac636ce7452bbcfb3601ceed47e083ad0e6ab/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/9.png)
 
 看到get传参t_sort,并且过滤掉了<>,标签插入之后不能闭合，但还是可以考虑onfocus事件，这里输入框添加了隐藏属性，需要添加type="text"。构造payload`t_sort=" onfocus=javascript:alert() type="text`
 
