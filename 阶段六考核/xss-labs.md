@@ -14,7 +14,7 @@
 
 在搜索框里再次输入`<Script>alert(1)</script>`尝试一下发现他显示在了屏幕里没有弹窗，查看源代码得知
 
-![2]()
+![2](https://github.com/YZLSJR/Tasks/blob/8f7faf5e5ff07140864126c7f9a86f4f49d8f380/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/2.png)
 
 “<“”>“被实体转义，但是只有一个被转义，另一个被引号包裹，所以只需要将双引号闭合掉即可，输入`"> <script>alert()</script> <"`
 
