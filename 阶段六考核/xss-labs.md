@@ -6,7 +6,7 @@
 
 观察到网址中“？”后`name=test`，
 
-![1]()
+![1](https://github.com/YZLSJR/Tasks/blob/a00bb1cfb2c4e04dfaf8661ed4ad742365990ebc/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/1.png)
 
 尝试简单的标签插入，输入`<Script>alert(1)</script>`后显示过关，查看源码发现，name的值插入到了html里头，还将输入的值的长度显示了出来
 
