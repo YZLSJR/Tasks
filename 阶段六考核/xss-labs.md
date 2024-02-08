@@ -66,7 +66,7 @@
 
 将第八关答案输入进去发现不行，查看源码发现href标签里插入不进去再查看这一关的源码，发现有一句
 
-![8]()
+![8](https://github.com/YZLSJR/Tasks/blob/50fd928932cbcd11d956dc745373554da67a4d4b/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/8.png)
 
 `if(false===strpos($str7,'http://')`也就是说输入的内容里如果没有http://就会执行if语句，所以我们在输入的语句中要包含http://，并且要用注释符包裹起来
 
