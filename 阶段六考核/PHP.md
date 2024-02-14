@@ -15,6 +15,13 @@ PHP有两种输出文本的基本指令：echo和print
 
 没有命令，直接赋值
 
+## 特殊运算符
+
+a.b相当于ab
+例："hello"."world"="helloworld"
+
+a .= b 相当于 a=a.b
+
 ## echo和print语句
 
 echo和print的区别：
