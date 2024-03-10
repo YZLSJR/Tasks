@@ -17,3 +17,5 @@
 * [阶段六拓展](https://github.com/YZLSJR/Tasks/blob/78b43a540bf89927c288693186e4e2b3324d36ac/%E9%98%B6%E6%AE%B5%E5%85%AD%E8%80%83%E6%A0%B8/%E9%98%B6%E6%AE%B5%E5%85%AD%E6%8B%93%E5%B1%95.md)
 
 * [阶段七考核](https://github.com/YZLSJR/Tasks/tree/c6543206b8c53a0efbf2790d6db9b52626c2ad04/%E9%98%B6%E6%AE%B5%E4%B8%83%E8%80%83%E6%A0%B8)
+
+* [阶段八考核]()
