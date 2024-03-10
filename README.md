@@ -18,4 +18,4 @@
 
 * [阶段七考核](https://github.com/YZLSJR/Tasks/tree/c6543206b8c53a0efbf2790d6db9b52626c2ad04/%E9%98%B6%E6%AE%B5%E4%B8%83%E8%80%83%E6%A0%B8)
 
-* [阶段八考核](https://github.com/YZLSJR/Tasks/tree/44b2ac9d12df25b2988979f2b95a1a005705eb3a/%E9%98%B6%E6%AE%B5%E5%85%AB%E8%80%83%E6%A0%B8)
+* [阶段八考核(有些功能还没有做完)](https://github.com/YZLSJR/Tasks/tree/44b2ac9d12df25b2988979f2b95a1a005705eb3a/%E9%98%B6%E6%AE%B5%E5%85%AB%E8%80%83%E6%A0%B8)
